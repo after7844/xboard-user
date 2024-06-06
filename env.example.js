@@ -1,10 +1,10 @@
 // API地址
-window.routerBase = 'http://127.0.0.1:8000/'
+window.routerBase = 'https://kaaawsss.cloud/'
 window.settings = {
   // 站点名称
-  title: 'Xboard',
+  title: 'Kaws云',
   // 站点描述
-  description: 'Xboard',
+  description: '突破网络限制，牢记官网：kaws.top',
   assets_path: '/assets',
   // 主题色
   theme: {
